@@ -232,7 +232,7 @@ body.deck-container {
   font-weight: bold;
   padding-top: .5em;
   margin: 0 0 .66666em 0;
-  border-bottom: 1px solid #888;
+ /* border-bottom: 1px solid #888;*/
 }
 .slide h3 {
   font-size: 1.4375em;
@@ -405,4 +405,4 @@ body.deck-container {
   script {
     display: none;
   }
-}
+
