@@ -3,7 +3,6 @@
   font-size: 1.75em;
  /* background: #474747; */
   background-image:url(../../imgs/hearts-4-.jpg);
-
   background-size: 100% Auto;
 
 }
@@ -86,8 +85,6 @@
 .deck-container.deck-menu .deck-current, .no-touch .deck-container.deck-menu .slide:hover {
   background: #ddf;
 }
-
   .lol {
     display:none;
   }
-
